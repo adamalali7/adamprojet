@@ -1,0 +1,125 @@
+  
+ .container{
+    display:flex;
+    justify-content: space-around;
+  
+  
+    
+    
+  
+  background-color: chartreuse;
+   width: 100%;
+   height:800px;
+    
+ }
+ #boite1, #boite2, #boite3 {
+   
+   width: 300px;
+   height: 300px;
+
+ }
+ #boite1{
+  background-color: yellow;
+  display: flex;
+
+  
+
+ }
+ #boite2{
+  background-color: red;
+  display: flex;
+
+ }
+ #boite3{
+  background-color: orange;
+  display: flex;
+
+ } 
+
+ #B-boite1, #B-boite2, #B-boite3 {
+   
+   width: 100px;
+   height: 100px;
+   
+ }
+  #B-boite1{
+    background-color: blue;
+    
+    
+  }
+  #B-boite2{
+    background-color: green;
+    
+  }
+  #B-boite3{
+    background-color: purple;
+    
+  }
+  #nav{
+    width: 100%;
+    height: 40px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+.option-menu{
+    background-color:yellow;
+    
+    font-size: 20px;
+}
+.maan{
+  display: flex;
+  justify-content: space-around;
+}
+#box1{
+  background-color: red;
+  width: 300px;
+  height: 300px;
+ 
+}
+#box2{
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+ 
+}
+#box3{
+  background-color: green;
+  width: 300px;
+  height: 300px;
+ 
+}
+  .adam{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    width: 100%;
+    height: 40px;
+  }
+   #Box{
+    background-color: yellow;
+    font-size: 30px; 
+  }
+  .contenu{
+    display: inline-flex;
+    justify-content: space-between;
+    background-color: bisque;
+    width: 100%;
+    height: 200px;
+  }
+  #contenu1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+  }
+  .header{
+    width: 100%;
+    height: 500px;
+
+  }
+  #titre{
+    font-size: 50px;
+    background-color: yellow;
+    text-align: center;
+  }
+  
